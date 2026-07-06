@@ -69,11 +69,11 @@ Dataset Used: **Housing.csv**
 
 ## 📈 House Price Distribution
 
-<p align="center">
-<img src="<img width="750 height="500" alt="image" src="https://github.com/user-attachments/assets/6599dd03-566f-4ce6-8513-829e55f581f3" />
-" width="750">
-</p>
+## 📊 Price Distribution
 
+<p align="center">
+  <img src="images/price_distribution.png" width="750">
+</p>
 ---
 
 ## 🔥 Correlation Heatmap
