@@ -69,14 +69,10 @@ Dataset Used: **Housing.csv**
 
 ## 📈 House Price Distribution
 
-## 📊 Price Distribution
-
 <p align="center">
   <img src="images/price_distribution.png" width="750">
 </p>
 ---
-
-## 🔥 Correlation Heatmap
 
 ## 🔥 Correlation Heatmap
 
@@ -87,8 +83,6 @@ Dataset Used: **Housing.csv**
 ---
 
 ## 📊 Actual vs Predicted Prices
-
-## 📈 Actual vs Predicted Prices
 
 <p align="center">
   <img src="images/actual_vs_predicted.png" width="750">
