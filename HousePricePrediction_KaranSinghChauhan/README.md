@@ -84,9 +84,7 @@ Dataset Used: **Housing.csv**
 
 ## 📊 Actual vs Predicted Prices
 
-<p align="center">
-  <img src="images/actual_vs_predicted.png" width="750">
-</p>
+![image alt]{https://github.com/Karan09152006/House-Price-Prediction-Project/blob/93e96f63809fd469683361d3277099583f7f9d08/HousePricePrediction_KaranSinghChauhan/A%20vs%20P.png}
 
 ---
 
