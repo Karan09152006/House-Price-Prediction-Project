@@ -69,9 +69,8 @@ Dataset Used: **Housing.csv**
 
 ## 📈 House Price Distribution
 
-<p align="center">
-  <img src="images/price_distribution.png" width="750">
-</p>
+![image alt](https://github.com/Karan09152006/House-Price-Prediction-Project/blob/701d0a8ab80afffd47e8a2b2f777ba3598249471/HousePricePrediction_KaranSinghChauhan/Charts/chart1.png)
+
 ---
 
 ## 🔥 Correlation Heatmap
