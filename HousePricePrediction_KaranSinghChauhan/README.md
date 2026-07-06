@@ -76,9 +76,7 @@ Dataset Used: **Housing.csv**
 
 ## 🔥 Correlation Heatmap
 
-<p align="center">
-  <img src="images/correlation_heatmap.png" width="750">
-</p>
+![image alt](https://github.com/Karan09152006/House-Price-Prediction-Project/blob/cea373abd3e7465c0bf3adcb1c7b66bb4fbc0b4b/HousePricePrediction_KaranSinghChauhan/Charts/chart2.png)
 
 ---
 
