@@ -78,16 +78,20 @@ Dataset Used: **Housing.csv**
 
 ## 🔥 Correlation Heatmap
 
+## 🔥 Correlation Heatmap
+
 <p align="center">
-<img src="<img width="750 height="500" alt="image" src="https://github.com/user-attachments/assets/d0e43e85-26d2-47c0-97ef-46ec92107666" />
+  <img src="images/correlation_heatmap.png" width="750">
 </p>
 
 ---
 
 ## 📊 Actual vs Predicted Prices
 
+## 📈 Actual vs Predicted Prices
+
 <p align="center">
-<img src="<img width="750 height="500" alt="image" src="https://github.com/user-attachments/assets/b1fd27a8-9d36-4b28-a683-bcefdd7e624c" />
+  <img src="images/actual_vs_predicted.png" width="750">
 </p>
 
 ---
