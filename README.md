@@ -112,8 +112,6 @@ The models are evaluated using:
 | RMSE | 1.324507e+06 | 1.400566e+06 |
 | R² Score | 0.652924 | 0.611919 |
 
-> Replace **XX** with your actual model results.
-
 ---
 
 # 📁 Project Structure
